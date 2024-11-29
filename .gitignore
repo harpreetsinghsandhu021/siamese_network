@@ -1,0 +1,12 @@
+data
+application_data
+training_checkpoints
+siamesemodel.h5
+lfw.tgz
+
+.DS_Store
+
+.ipynb_checkpoints
+.virtual_documents
+
+__pycache__
